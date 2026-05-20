@@ -1,5 +1,6 @@
 # Welcome to Joseph Eustis's Website
 ## Project Page
+
 Title | Time | Description
 | --- | --- | --- |
 BeAST | 2025 | Active Roller Belting Asset Monitoring
